@@ -31,3 +31,5 @@ vite.config.js
 .vitepress/cache
 pnpm-lock.yaml
 /apps/docs/.vitepress/cache/
+
+typst/

@@ -13,6 +13,6 @@
   "author": "workoss@icloud.com",
   "license": "MIT",
   "devDependencies": {
-    "tinyglobby": "^0.2.12"
+    "tinyglobby": "^0.2.14"
   }
 }
